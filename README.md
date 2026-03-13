@@ -1,5 +1,5 @@
 ![logo](https://github.com/Santosh803307/Santosh803307/blob/main/GitHub%20Banner.png)
-<h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
+<h5 align="center">Hi 👋, I'm Santosh Kumar</h5>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?semt=ais_rp_progressive&w=740&q=80">

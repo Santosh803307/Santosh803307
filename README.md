@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/santosh__07__" target="blank"><img src="https://img.shields.io/twitter/follow/santosh__07__?logo=twitter&style=for-the-badge" alt="santosh__07__" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Web Developer, DSA, HTML, CSS**
+- 🌱 I’m currently learning **Python, Bootstrap, JavaScript, MongoDB, Node js, DSA, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Santosh803307](https://github.com/Santosh803307)
 

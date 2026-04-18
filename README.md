@@ -18,15 +18,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/santosh__07__" target="_blank">
+  <a href="https://x.com/santosh__07__" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40"/>
   </a>
   
-  <a href="https://linkedin.com/in/santosh-kumar" target="_blank">
+  <a href="https://www.linkedin.com/in/santosh-kumar-803307/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
   </a>
   
-  <a href="https://fb.com/santoshkumarsingh" target="_blank">
+  <a href="https://www.facebook.com/share/1BRKKNWArM/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/>
   </a>
   

@@ -26,19 +26,15 @@
 </p>
 
 ## 👨‍💻 About Me
-const santosh = {
-  pronouns: "He" | "Him",
-  code: ["Python", "JavaScript", "HTML", "CSS"],
-  technologies: {
-    frontEnd: ["HTML5", "CSS3", "Bootstrap", "JavaScript"],
-    backEnd: ["Node.js", "Python"],
-    database: ["MongoDB"],
-    dataScience: ["Pandas"],
-    tools: ["Git", "GitHub", "Linux", "Arduino"]
-  },
-  currentFocus: "Data Structures & Algorithms",
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
+
+**Santosh Kumar** - Turning coffee into code since forever ☕
+
+- 🎯 Full Stack Developer in making
+- 🌱 Learning: Python, JavaScript, Node.js, MongoDB, DSA
+- 💡 Believe in: Learn → Build → Share
+- 📧 santoshkumar9661331386@gmail.com
+- ⚡ Fun fact: My code works, I don't know why 🤷‍♂️
+
 
 ## 🌐 Connect With Me
 

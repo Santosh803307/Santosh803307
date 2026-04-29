@@ -70,11 +70,53 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </p>
-<div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <h3>✨ <em>Thanks for visiting! Let's connect and build something amazing together!</em> ✨</h3> <img src="https://komarev.com/ghpvc/?username=santosh803307&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/2196F3/santosh803307" alt="Contribution Grid" />
+</p>
 
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/></div>
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+  
+  <h3>💫 <em> Thanks for visiting! Let's connect and build something amazing together! </em> 💫</h3>
 
+  <br>
 
+  <table align="center">
+    <tr>
+      <td align="center"><strong>📊 Followers</strong></td>
+      <td align="center"><strong>⭐ Stars</strong></td>
+      <td align="center"><strong>👀 Views</strong></td>
+      <td align="center"><strong>🤝 Connect</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/github/followers/Santosh803307?style=for-the-badge&logo=github&color=blue" alt="Followers"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/Santosh803307?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
+      </td>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=santosh803307&style=for-the-badge&color=blueviolet" alt="Views"/>
+      </td>
+      <td>
+        <a href="mailto:santoshkumar9661331386@gmail.com">
+          <img src="https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,100:0D47A1&height=5&section=footer" width="100%"/>
+  
+  <p><sub>© 2026 Santosh Kumar | Made with ❤️ and ☕</sub></p>
+  
+</div>

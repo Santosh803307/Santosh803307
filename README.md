@@ -21,8 +21,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=santosh803307&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/santosh-kumar-8b1584332/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 

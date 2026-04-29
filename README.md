@@ -27,7 +27,6 @@
 
 ## 👨‍💻 About Me
 
-```javascript
 const santosh = {
   pronouns: "He" | "Him",
   code: ["Python", "JavaScript", "HTML", "CSS"],

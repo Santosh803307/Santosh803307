@@ -46,12 +46,21 @@
 
 ## 📊 GitHub Statistics
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosh803307&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosh803307&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=santosh803307&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🏆 GitHub Trophies
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=santosh803307&theme=nord&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" /> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=santosh803307&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</p>
 
 ## 📈 Contribution Graph
 

@@ -32,13 +32,13 @@
 - 🎯 Full Stack Developer in making
 - 🌱 Learning: Python, JavaScript, Node.js, MongoDB, DSA
 - 💡 Believe in: Learn → Build → Share
-- 📧 santoshkumar9661331386@gmail.com
+- 📧 contactsantosh.tech@gmail.com
 - ⚡ Fun fact: My code works, I don't know why 🤷‍♂️
 
 
 ## 🌐 Connect With Me
 
-<p align="center"> <a href="https://x.com/santosh__07__" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="https://www.linkedin.com/in/santosh-kumar-8b1584332/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.facebook.com/share/1BRKKNWArM/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://instagram.com/santosh_singh_0.7_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="mailto:santoshkumar9661331386@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+<p align="center"> <a href="https://x.com/santosh__07__" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="https://www.linkedin.com/in/santosh-kumar-8b1584332/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.facebook.com/share/1BRKKNWArM/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://instagram.com/santosh_singh_0.7_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="mailto:contactsantosh.tech@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
 
 ## 🛠️ Tech Stack
 
@@ -108,7 +108,7 @@
         <img src="https://komarev.com/ghpvc/?username=santosh803307&style=for-the-badge&color=blueviolet" alt="Views"/>
       </td>
       <td>
-        <a href="mailto:santoshkumar9661331386@gmail.com">
+        <a href="mailto:contactsantosh.tech@gmail.com">
           <img src="https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
         </a>
       </td>

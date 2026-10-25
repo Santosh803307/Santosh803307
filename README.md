@@ -58,13 +58,29 @@
 
 ## 🏆 GitHub Trophies
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santosh803307&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Santosh803307&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+    alt="GitHub Trophies"
+    width="100%"
+  />
 </p>
 
 ## 📈 Contribution Graph
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=santosh803307&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" /> </p>
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <a href="https://github.com/Santosh803307">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Santosh803307&theme=tokyo-night&hide_border=true"
+      alt="Santosh's GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
+</p>
 
 ## 🎯 Random Dev Quote
 

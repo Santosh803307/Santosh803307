@@ -56,12 +56,13 @@
   <img src="https://streak-stats.demolab.com?user=santosh803307&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies Stats
+## 🏆 GitHub Trophies 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Santosh803307&show_icons=true&theme=tokyonight"
-    alt="GitHub Profile Stats"
+    src="https://github-profile-trophy.vercel.app/?username=Santosh803307&theme=tokyonight&no-frame=true&column=7"
+    alt="GitHub Trophies"
+    width="100%"
   />
 </p>
 

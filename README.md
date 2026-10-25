@@ -57,14 +57,10 @@
 </p>
 
 ## 🏆 GitHub Trophies
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Santosh803307&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+    src="https://github-profile-trophy.vercel.app/?username=Santosh803307&theme=tokyonight&column=7&margin-w=10"
     alt="GitHub Trophies"
-    width="100%"
   />
 </p>
 

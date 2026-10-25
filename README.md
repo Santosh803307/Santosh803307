@@ -65,9 +65,6 @@
 </p>
 
 ## 📈 Contribution Graph
-
-<h2 align="center">📈 Contribution Graph</h2>
-
 <p align="center">
   <a href="https://github.com/Santosh803307">
     <img

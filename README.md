@@ -69,13 +69,11 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/Santosh803307">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Santosh803307&theme=tokyo-night&hide_border=true"
-      alt="Santosh's GitHub Contribution Graph"
-      width="100%"
-    />
-  </a>
+  <img
+    src="https://ghchart.rshah.org/40c463/Santosh803307"
+    alt="Santosh's GitHub Contribution Chart"
+    width="100%"
+  />
 </p>
 
 ## 🎯 Random Dev Quote
